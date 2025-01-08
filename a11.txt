@@ -1,0 +1,46 @@
+
+##teamcity[testCount count='1']
+
+##teamcity[testSuiteStarted name='A11TestsL1' locationHint='scalatest://TopOfClass:A11TestsL1TestName:A11TestsL1' captureStandardOutput='true' nodeId='1' parentNodeId='0']
+
+##teamcity[testStarted name='lacs' locationHint='scalatest://LineInFile:A11TestsL1:A11Tests.scala:12TestName:lacs' captureStandardOutput='true' nodeId='2' parentNodeId='1']
+00000001000000000000000000000000
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+11
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+28
+Variable increment not found in procedure procedure -- walking to procedure Some(Procedure(increaseBy))
+List(param pointer of procedure, dynamic link of procedure, saved pc of procedure, binOpTemp)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+Variable free not found in procedure copyBlock -- walking to procedure Some(Procedure(collectGarbage))
+List(param pointer of copyBlock, dynamic link of copyBlock, saved pc of copyBlock, binOpTemp, binOpTemp, binOpTemp, binOpTemp, binOpTemp, address, binOpTemp, address, binOpTemp, binOpTemp, blockSize)
+11
+
+##teamcity[testFinished name='lacs' duration='294'nodeId='2']
+
+##teamcity[testSuiteFinished name='A11TestsL1'nodeId='1']

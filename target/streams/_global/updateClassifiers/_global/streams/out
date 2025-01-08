@@ -1,0 +1,4 @@
+[warn] scala3-library_3-3.3.3-sources.jar no longer exists at /home/ricky/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/rickyhuang/Dropbox/UW/CS%20241E/cs241e-handout-2409.01-a768b9bd4d75c91e8fd405917cf8d62888b288f1/cs241e/"), "cs241e")...
+[debug] Done updating ProjectRef(uri("file:/Users/rickyhuang/Dropbox/UW/CS%20241E/cs241e-handout-2409.01-a768b9bd4d75c91e8fd405917cf8d62888b288f1/cs241e/"), "cs241e")
